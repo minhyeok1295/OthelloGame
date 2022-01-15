@@ -7,6 +7,7 @@ This was my first MVC model group project from CSC207 UTM Course.
 2. Import all folders/files into java program such as Eclipse 
 3. Run OthelloApplication.java ; located in ca.utoronto.utm.othello.viewcontroller package
 
+![image](https://user-images.githubusercontent.com/56323360/149638809-27dfd9be-f233-472f-b620-a4456d72ef4e.png)
 
 Choosing opponents buttons:
 				Human: playing with human vs human with one other player
