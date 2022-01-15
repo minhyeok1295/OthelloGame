@@ -1,4 +1,6 @@
 # OthelloGame
+This was my first MVC model group project from CSC207 UTM Course.
+
 -----------Instruction to run Othello Game-----------
 
 1. Pull all the files on an updated Java version greater than java 8.0
